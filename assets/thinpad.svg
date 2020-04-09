@@ -10,11 +10,11 @@
       }
 
       .cls-3 {
-        fill: #121212;
+        fill: #222;
       }
 
       .cls-4 {
-        fill: #222;
+        fill: #121212;
       }
 
       .cls-5 {
@@ -56,29 +56,29 @@
     </clipPath>
   </defs>
   <g id="thinpad" class="cls-1">
-    <g id="组_1" data-name="组 1" transform="translate(-4.5 52.5)">
-      <path id="路径_1" data-name="路径 1" class="cls-2" d="M256.5,27.5l-240,240h270l240-240Z" transform="translate(-11 71)"/>
-      <path id="路径_2" data-name="路径 2" class="cls-3" d="M297.5,114.5l-150,150h-70l150-150Z" transform="translate(18 -16)"/>
-      <path id="路径_3" data-name="路径 3" class="cls-3" d="M171.5,120.5h135l-70,70h-135Z" transform="translate(114 8)"/>
-      <path id="路径_9" data-name="路径 9" class="cls-4" d="M171.5,120.5h135l-70,70h-135Z" transform="translate(114 8)"/>
-      <path id="路径_6" data-name="路径 6" class="cls-5" d="M297.5,114.5l-150,150h-70l150-150Z" transform="translate(15.5 -46)"/>
-      <path id="路径_10" data-name="路径 10" class="cls-3" d="M138.5,120.5h115l-20,20h-115Z" transform="translate(227 -22)"/>
-      <path id="路径_16" data-name="路径 16" class="cls-6" d="M138.5,120.5h115l-20,20h-115Z" transform="translate(227 -34.5)"/>
-      <path id="路径_4" data-name="路径 4" class="cls-3" d="M158.5,120.5h65l-20,20h-65Z" transform="translate(262 8)"/>
-      <path id="路径_8" data-name="路径 8" class="cls-7" d="M158.5,120.5h65l-20,20h-65Z" transform="translate(262 -12)"/>
-      <path id="路径_12" data-name="路径 12" class="cls-3" d="M171.5,120.5h135l-70,70h-135Z" transform="translate(74 85.5)"/>
-      <path id="路径_13" data-name="路径 13" class="cls-4" d="M171.5,120.5h135l-70,70h-135Z" transform="translate(74 85.5)"/>
-      <text id="Cloud" class="cls-8" transform="translate(199.25 261.25)"><tspan x="0" y="0">Cloud</tspan></text>
-      <g id="组_4" data-name="组 4" transform="translate(5 -4)">
-        <text id="THIN" class="cls-9" transform="translate(269.25 155.25)"><tspan x="0" y="0">THIN</tspan></text>
-        <text id="PAD" class="cls-9" transform="translate(234.25 190.25)"><tspan x="0" y="0">PAD</tspan></text>
-      </g>
-      <path id="路径_14" data-name="路径 14" class="cls-3" d="M75.5,197.5l35-35H138l-35,35Z" transform="translate(105 141)"/>
-      <path id="路径_15" data-name="路径 15" d="M75.5,197.5l35-35H138l-35,35Z" transform="translate(105 128.5)"/>
-      <path id="路径_17" data-name="路径 17" class="cls-3" d="M158.5,120.5h65l-20,20h-65Z" transform="translate(-95.5 198)"/>
-      <path id="路径_18" data-name="路径 18" class="cls-10" d="M158.5,120.5h65l-20,20h-65Z" transform="translate(-95.5 173)"/>
-      <path id="路径_30" data-name="路径 30" class="cls-3" d="M158.5,120.5h65l-20,20h-65Z" transform="translate(232 38)"/>
-      <path id="路径_31" data-name="路径 31" class="cls-7" d="M158.5,120.5h65l-20,20h-65Z" transform="translate(232 18)"/>
+    <path id="路径_1" data-name="路径 1" class="cls-2" d="M256.5,27.5l-240,240h270l240-240Z" transform="translate(-15.5 123.5)"/>
+    <path id="路径_2" data-name="路径 2" class="cls-3" d="M297.5,114.5l-150,150h-70l150-150Z" transform="translate(13.5 36.5)"/>
+    <path id="路径_3" data-name="路径 3" class="cls-4" d="M171.5,120.5h135l-70,70h-135Z" transform="translate(109.5 60.5)"/>
+    <path id="路径_9" data-name="路径 9" class="cls-3" d="M171.5,120.5h135l-70,70h-135Z" transform="translate(109.5 60.5)"/>
+    <path id="路径_6" data-name="路径 6" class="cls-5" d="M297.5,114.5l-150,150h-70l150-150Z" transform="translate(11 6.5)"/>
+    <path id="路径_10" data-name="路径 10" class="cls-3" d="M138.5,120.5h115l-20,20h-115Z" transform="translate(222.5 30.5)"/>
+    <path id="路径_43" data-name="路径 43" class="cls-4" d="M171.5,120.5h135l-70,70h-135Z" transform="translate(109.5 54.5)"/>
+    <path id="路径_44" data-name="路径 44" class="cls-4" d="M171.5,120.5h135l-70,70h-135Z" transform="translate(69.5 138)"/>
+    <path id="路径_16" data-name="路径 16" class="cls-6" d="M138.5,120.5h115l-20,20h-115Z" transform="translate(222.5 18)"/>
+    <path id="路径_4" data-name="路径 4" class="cls-3" d="M158.5,120.5h65l-20,20h-65Z" transform="translate(257.5 60.5)"/>
+    <path id="路径_8" data-name="路径 8" class="cls-7" d="M158.5,120.5h65l-20,20h-65Z" transform="translate(257.5 45.5)"/>
+    <path id="路径_12" data-name="路径 12" class="cls-3" d="M171.5,120.5h135l-70,70h-135Z" transform="translate(69.5 138)"/>
+    <path id="路径_13" data-name="路径 13" class="cls-4" d="M171.5,120.5h135l-70,70h-135Z" transform="translate(69.5 132)"/>
+    <text id="Cloud" class="cls-8" transform="translate(194.75 307.75)"><tspan x="0" y="0">Cloud</tspan></text>
+    <g id="组_4" data-name="组 4" transform="translate(0.5 42.5)">
+      <text id="THIN" class="cls-9" transform="translate(269.25 155.25)"><tspan x="0" y="0">THIN</tspan></text>
+      <text id="PAD" class="cls-9" transform="translate(234.25 190.25)"><tspan x="0" y="0">PAD</tspan></text>
     </g>
+    <path id="路径_14" data-name="路径 14" class="cls-3" d="M75.5,197.5l35-35H138l-35,35Z" transform="translate(100.5 193.5)"/>
+    <path id="路径_15" data-name="路径 15" d="M75.5,197.5l35-35H138l-35,35Z" transform="translate(100.5 181)"/>
+    <path id="路径_17" data-name="路径 17" class="cls-3" d="M158.5,120.5h65l-20,20h-65Z" transform="translate(-100 250.5)"/>
+    <path id="路径_18" data-name="路径 18" class="cls-10" d="M158.5,120.5h65l-20,20h-65Z" transform="translate(-100 225.5)"/>
+    <path id="路径_30" data-name="路径 30" class="cls-3" d="M158.5,120.5h65l-20,20h-65Z" transform="translate(227.5 90.5)"/>
+    <path id="路径_31" data-name="路径 31" class="cls-7" d="M158.5,120.5h65l-20,20h-65Z" transform="translate(227.5 75.5)"/>
   </g>
 </svg>
