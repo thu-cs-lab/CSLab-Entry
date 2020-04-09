@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #333;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-routerlab);
+      }
+
+      .cls-3 {
+        fill: #222;
+      }
+
+      .cls-4 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-5 {
+        fill: none;
+        stroke: #222;
+        stroke-width: 10px;
+      }
+
+      .cls-6 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-7 {
+        clip-path: url(#clip-path-3);
+      }
+
+      .cls-8 {
+        fill: #2b9739;
+      }
+
+      .cls-9 {
+        fill: #fff;
+        font-size: 42px;
+        font-family: SourceHanMono-Heavy, Source Han Mono;
+        font-weight: 800;
+        letter-spacing: -0.05em;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <path id="路径_38" data-name="路径 38" class="cls-1" d="M582.5,512.5l81-81h146l-81,81Z" transform="translate(-573.5 -160.5)"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="路径_40" data-name="路径 40" class="cls-1" d="M582.5,512.5l81-81h146l-81,81Z" transform="translate(-477.5 -258.5)"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <path id="路径_42" data-name="路径 42" class="cls-1" d="M582.5,512.5l81-81h146l-81,81Z" transform="translate(-402.5 -160.5)"/>
+    </clipPath>
+    <clipPath id="clip-routerlab">
+      <rect width="512" height="512"/>
+    </clipPath>
+  </defs>
+  <g id="routerlab" class="cls-2">
+    <path id="路径_32" data-name="路径 32" class="cls-1" d="M582.5,512.5l81-81h146l-81,81Z" transform="translate(-477.5 -258.5)"/>
+    <path id="路径_34" data-name="路径 34" class="cls-1" d="M582.5,512.5l81-81h146l-81,81Z" transform="translate(-573.5 -160.5)"/>
+    <path id="路径_33" data-name="路径 33" class="cls-1" d="M582.5,512.5l81-81h146l-81,81Z" transform="translate(-306.5 -258.5)"/>
+    <path id="路径_35" data-name="路径 35" class="cls-1" d="M582.5,512.5l81-81h146l-81,81Z" transform="translate(-402.5 -160.5)"/>
+    <path id="交叉_2" data-name="交叉 2" class="cls-3" d="M-952,138l40-40h74l-40,40Zm-99,0,40-40h74l-40,40Zm154-57,39-39h76l-39,39Zm-97,0,39-39h72l-39,39Z" transform="translate(1173 173)"/>
+    <g id="蒙版组_1" data-name="蒙版组 1" class="cls-4">
+      <path id="路径_37" data-name="路径 37" class="cls-5" d="M1172.325,337.25h131.487l33.463-33.463" transform="translate(-1172 -3)"/>
+    </g>
+    <g id="蒙版组_2" data-name="蒙版组 2" class="cls-6">
+      <path id="路径_39" data-name="路径 39" class="cls-5" d="M1461.1,149.92l-65.2,65.2h59.7" transform="translate(-1228 5)"/>
+    </g>
+    <g id="蒙版组_3" data-name="蒙版组 3" class="cls-7">
+      <path id="路径_41" data-name="路径 41" class="cls-5" d="M1534.221,235.94h93.393" transform="translate(-1230 61)"/>
+    </g>
+    <path id="路径_21" data-name="路径 21" class="cls-8" d="M582.5,527.5l96-96h173l-96,96Z" transform="translate(-460.5 -238.5)"/>
+    <text id="Router" class="cls-9" transform="translate(157.25 274.25)"><tspan x="0" y="0">Router</tspan></text>
+    <text id="Lab" class="cls-9" transform="translate(256.25 329.25)"><tspan x="0" y="0">Lab</tspan></text>
+  </g>
+</svg>

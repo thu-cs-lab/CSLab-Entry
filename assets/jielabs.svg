@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-jielabs);
+      }
+
+      .cls-2 {
+        fill: #333;
+      }
+
+      .cls-3, .cls-8 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 10px;
+        opacity: 0.3;
+      }
+
+      .cls-3 {
+        stroke: #222;
+      }
+
+      .cls-4, .cls-6 {
+        fill: #222;
+      }
+
+      .cls-5 {
+        fill: #666;
+      }
+
+      .cls-6 {
+        opacity: 0.5;
+      }
+
+      .cls-7 {
+        fill: #4068e0;
+      }
+
+      .cls-8 {
+        stroke: #000;
+      }
+
+      .cls-10, .cls-9 {
+        fill: #fff;
+      }
+
+      .cls-9 {
+        font-size: 20px;
+        font-family: SourceHanMono-Light, Source Han Mono;
+        font-weight: 300;
+        opacity: 0.54;
+      }
+
+      .cls-10 {
+        font-size: 42px;
+        font-family: SourceHanMono-Heavy, Source Han Mono;
+        font-weight: 800;
+      }
+    </style>
+    <clipPath id="clip-jielabs">
+      <rect width="512" height="512"/>
+    </clipPath>
+  </defs>
+  <g id="jielabs" class="cls-1">
+    <g id="组_3" data-name="组 3" transform="translate(0.5 19.5)">
+      <g id="组_2" data-name="组 2">
+        <path id="路径_19" data-name="路径 19" class="cls-2" d="M582.5,426.5c7.228-4.725,132-132,132-132h379s-129.918,132-132,132Z" transform="translate(-582 -103)"/>
+        <path id="路径_29" data-name="路径 29" class="cls-3" d="M1131-25l-83,83H945" transform="translate(-719 231)"/>
+        <path id="路径_22" data-name="路径 22" class="cls-4" d="M582.5,512.5l81-81h146l-81,81Z" transform="translate(-494 -206)"/>
+        <path id="路径_20" data-name="路径 20" class="cls-4" d="M582.5,512.5l81-81h146l-81,81Z" transform="translate(-337 -256)"/>
+        <path id="路径_23" data-name="路径 23" class="cls-5" d="M582.5,512.5l81-81h146l-81,81Z" transform="translate(-494 -218)"/>
+        <path id="交叉_1" data-name="交叉 1" class="cls-6" d="M-425,81l31-31h39l-31,31Z" transform="translate(670.5 163.5)"/>
+        <path id="路径_21" data-name="路径 21" class="cls-7" d="M582.5,512.5l81-81h146l-81,81Z" transform="translate(-337 -281)"/>
+        <path id="路径_28" data-name="路径 28" class="cls-8" d="M1131-38l-83,83V58H945" transform="translate(-719 219)"/>
+        <text id="Labs" class="cls-9" transform="translate(278.75 300.75)"><tspan x="0" y="0">Labs</tspan></text>
+        <text id="Jie" class="cls-10" transform="translate(236.75 264.75)"><tspan x="0" y="0">Jie</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
